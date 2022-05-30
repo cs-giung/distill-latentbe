@@ -1,6 +1,6 @@
-# Improving Ensemble Distillation with Weight Averaging and Diversifying Perturbation
+# Improving Ensemble Distillation With Weight Averaging and Diversifying Perturbation
 
-This repository is the official implementation of [Improving Ensemble Distillation with Weight Averaging and Diversifying Perturbation]() (ICML 2022).
+This repository is the official implementation of [Improving Ensemble Distillation With Weight Averaging and Diversifying Perturbation]() (ICML 2022).
 
 ## Requirements
 
@@ -83,3 +83,7 @@ If you find this useful in your research, please consider citing our paper:
   year      = {2022}
 }
 ```
+
+## License
+
+[The MIT License](./LICENSE).
